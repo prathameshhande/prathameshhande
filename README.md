@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pinimg.com/originals/54/fb/c6/54fbc648ae374aa4b6d69d0c218885f6.gif)
+[![MasterHead](https://i.pinimg.com/originals/54/fb/c6/54fbc648ae374aa4b6d69d0c218885f6.gif)](https://i.pinimg.com/originals/54/fb/c6/54fbc648ae374aa4b6d69d0c218885f6.gif)
 
 <h1 align="center">Hi 👋, I'm Prathamesh.</h1>
 <h3 align="center">A passionate frontend developer and ethical hacker from India</h3>
