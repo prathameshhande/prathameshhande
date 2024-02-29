@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Prathamesh.</h1>
 <h3 align="center">A passionate frontend developer and ethical hacker from India</h3>
 
-<img align="center" width="700" src="https://benisnous.com/wp-content/uploads/2021/04/5-awesome-command-line-Linux-tools.jpg">
+<img align="rigth" width="700" src="https://benisnous.com/wp-content/uploads/2021/04/5-awesome-command-line-Linux-tools.jpg">
 
 - 🌱 I’m currently learning **Web Dev and digital forensics**
 
